@@ -1,0 +1,61 @@
+body{
+
+background-color : black;
+text-align: center;
+
+}
+
+h1{
+color : white;
+font-weight: bold;
+text-decoration: underline;
+}
+
+h4
+{
+color : white;
+}
+
+#month 
+{
+width : 25%;
+Margin-left: auto;
+margin-right: auto;
+}
+
+#date
+{
+width : 25%;
+Margin-left: auto;
+margin-right: auto;
+}
+#region-dropdown
+{
+width : 25%;
+Margin-left: auto;
+margin-right: auto;
+}
+ #country-dropdown 
+{
+width : 25%;
+Margin-left: auto;
+margin-right: auto;
+}
+#state-dropdown 
+{
+width : 25%;
+Margin-left: auto;
+margin-right: auto;
+}
+#city-dropdown 
+{
+width : 25%;
+Margin-left: auto;
+margin-right: auto;
+}
+#attacktype-dropdown
+{
+width : 25%;
+Margin-left: auto;
+margin-right: auto;
+}
